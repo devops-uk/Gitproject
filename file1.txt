@@ -2,4 +2,5 @@ using this for reset and resstore commonds
 This file is for the dev1 ---application has been updated
 This file is used for developer2 for commit 
 
-This is a amened commit file 
+
+This is a amened commit fil
